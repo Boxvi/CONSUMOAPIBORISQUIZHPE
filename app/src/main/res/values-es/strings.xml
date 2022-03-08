@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CONSUMOAPIBORISQUIZHPE</string>
+    <string name="name">nombre</string>
+    <string name="species">especie</string>
+    <string name="gender">genero</string>
+    <string name="status">estado</string>
+    <string name="titles">Covid en Ecuador</string>
+    <string name="vaccinate">vacunate, es gratis</string>
+</resources>

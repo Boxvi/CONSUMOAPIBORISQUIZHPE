@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CONSUMO API por BORIS QUIZHPE</string>
+
+    <string name="name">name</string>
+    <string name="species">species</string>
+    <string name="gender">gender</string>
+    <string name="status">status</string>
+
+    <string name="titles">Covid in Ecuador</string>
+    <string name="vaccinate">get vaccinated it is free</string>
+
+</resources>
